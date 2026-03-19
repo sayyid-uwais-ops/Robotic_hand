@@ -92,9 +92,6 @@ Upload Arduino code using Arduino IDE
 Run Python script:
 
 python main.py
-📸 Project Demo
-
-(Add images or videos here)
 
 🚀 Applications
 
